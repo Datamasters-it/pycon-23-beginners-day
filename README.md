@@ -86,7 +86,7 @@ It's time to lay the foundation for our live coding fun! Here's what you need to
 
 2. **Explore and Play**: Inside each notebook, you'll find instructions and explanations to guide you step by step through the code. Don't be afraid to explore, experiment, and ask questions. That's how we learn and grow as programmers!
 
-3. **Share Your Experience**: Don't forget to share your experience on Twitter or social media using the hashtag #PyconItalia2023. Show everyone how much fun you're having and what you've learned during the Beginners'Day. The Python community is full of enthusiastic people who will be delighted to see your progress!
+3. **Share Your Experience**: Don't forget to share your experience on Twitter or social media tagging Python Italia and datamasters and using the hashtag #beginnersday. Show everyone how much fun you're having and what you've learned during the Beginners'Day. The Python community is full of enthusiastic people who will be delighted to see your progress!
 
 So get ready to experience an explosive live coding session at the Beginners'Day of Pycon Italia 2023! We can't wait to share with you the secrets behind the game of Rock, Paper, Scissors and take the fun to the next level with new moves and webcam recognition. Get ready to learn, laugh, and be amazed as we explore the wonderful world of Python programming together!
 
