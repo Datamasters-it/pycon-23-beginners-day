@@ -1,8 +1,6 @@
 # Beginners'Day - Pycon Italia 2023
 ----------
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
-
 ## 🇮🇹🎉
 
 Benvenuti al repository del **Beginners'Day**, l'evento di apertura del **[Pycon Italia 2023](https://pycon.it/)** curato da **[Datamasters](https://datamasters.it/)**! Sei pronto per un'esperienza di live coding divertente e coinvolgente? Preparati a immergerti nel mondo della programmazione Python attraverso il gioco classico di **Sasso, Carta, Forbice**!
