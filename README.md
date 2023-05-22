@@ -50,6 +50,11 @@ Quindi, preparati a vivere un'esperienza di live coding esplosiva al Beginners'D
 
 Let's code and have fun! 🚀🐍💥
 
+**Notebooks**:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanieleFH/rock-paper-scissors-lizard-spock/main?labpath=Live%20Coding.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/DanieleFH/rock-paper-scissors-lizard-spock/blob/main/Live%20Coding.ipynb)
+
 
 ## 🇬🇧🎉
 
@@ -91,3 +96,8 @@ It's time to lay the foundation for our live coding fun! Here's what you need to
 So get ready to experience an explosive live coding session at the Beginners'Day of Pycon Italia 2023! We can't wait to share with you the secrets behind the game of Rock, Paper, Scissors and take the fun to the next level with new moves and webcam recognition. Get ready to learn, laugh, and be amazed as we explore the wonderful world of Python programming together!
 
 Let's code and have fun! 🚀
+
+**Notebooks**:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanieleFH/rock-paper-scissors-lizard-spock/main?labpath=Live%20Coding%20ENG.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/DanieleFH/rock-paper-scissors-lizard-spock/blob/main/Live%20Coding%20ENG.ipynb)
