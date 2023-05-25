@@ -50,8 +50,8 @@ Let's code and have fun! 🚀🐍💥
 
 **Notebooks**:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanieleFH/rock-paper-scissors-lizard-spock/main?labpath=Live%20Coding.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/DanieleFH/rock-paper-scissors-lizard-spock/blob/main/Live%20Coding.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Datamasters-it/pycon-23-beginners-day/main?labpath=Live%20Coding.ipynb){:target="_blank"}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/Datamasters-it/pycon-23-beginners-day/blob/main/Live%20Coding.ipynb){:target="_blank"}
 
 
 ## 🇬🇧🎉
@@ -97,5 +97,5 @@ Let's code and have fun! 🚀
 
 **Notebooks**:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Datamasters-it/pycon-23-beginners-day/main?labpath=Live%20Coding%20ENG.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/Datamasters-it/pycon-23-beginners-day/blob/main/Live%20Coding%20ENG.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Datamasters-it/pycon-23-beginners-day/main?labpath=Live%20Coding%20ENG.ipynb){:target="_blank"}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/Datamasters-it/pycon-23-beginners-day/blob/main/Live%20Coding%20ENG.ipynb){:target="_blank"}
