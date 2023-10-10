@@ -102,6 +102,9 @@ Let's code and have fun! 🚀
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Datamasters-it/pycon-23-beginners-day/main?labpath=Live%20Coding%20ENG.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/Datamasters-it/pycon-23-beginners-day/blob/main/Live%20Coding%20ENG.ipynb)
 
+**Test**:
+This message is for test, hence you can delete either branch and PR
+
 **Full Notebook**:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/Datamasters-it/pycon-23-beginners-day/blob/main/Live%20Coding%20ENG%20Full.ipynb)
 
